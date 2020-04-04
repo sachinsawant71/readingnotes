@@ -8,5 +8,9 @@ Random reading notes
 * https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/
 * https://www.hacksplaining.com/
 
+# Knowledge Graph
+
+* https://medium.com/hackernoon/knowledge-graphs-for-enhanced-machine-reasoning-at-forge-ai-ef1ffa03af3d
+
 # codepen links 
 https://codepen.io/ross-angus/pen/jwxMjL

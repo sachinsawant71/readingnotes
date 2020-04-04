@@ -8,3 +8,5 @@ Random reading notes
 * https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/
 * https://www.hacksplaining.com/
 
+# codepen links 
+https://codepen.io/ross-angus/pen/jwxMjL

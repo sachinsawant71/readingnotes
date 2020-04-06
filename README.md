@@ -15,3 +15,6 @@ Random reading notes
 # codepen links 
 https://codepen.io/ross-angus/pen/jwxMjL
 https://codepen.io/uiswarup/pen/GRgRJdd
+https://codepen.io/uiswarup/pen/BaaexdO
+https://codepen.io/Souleste/pen/JQRbMP
+https://codepen.io/alphardex/pen/xxGoKEO

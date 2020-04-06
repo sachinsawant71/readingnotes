@@ -7,6 +7,7 @@ Random reading notes
 * https://www.debugbear.com/blog/performant-front-end-architecture
 * https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/
 * https://www.hacksplaining.com/
+* http://neuralnetworksanddeeplearning.com/
 
 # Knowledge Graph
 
@@ -18,3 +19,4 @@ https://codepen.io/uiswarup/pen/GRgRJdd
 https://codepen.io/uiswarup/pen/BaaexdO
 https://codepen.io/Souleste/pen/JQRbMP
 https://codepen.io/alphardex/pen/xxGoKEO
+https://codepen.io/kdbkapsere/pen/oNXLbqQ

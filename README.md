@@ -14,9 +14,10 @@ Random reading notes
 * https://medium.com/hackernoon/knowledge-graphs-for-enhanced-machine-reasoning-at-forge-ai-ef1ffa03af3d
 
 # codepen links 
-https://codepen.io/ross-angus/pen/jwxMjL
-https://codepen.io/uiswarup/pen/GRgRJdd
-https://codepen.io/uiswarup/pen/BaaexdO
-https://codepen.io/Souleste/pen/JQRbMP
-https://codepen.io/alphardex/pen/xxGoKEO
-https://codepen.io/kdbkapsere/pen/oNXLbqQ
+* https://codepen.io/ross-angus/pen/jwxMjL
+* https://codepen.io/uiswarup/pen/GRgRJdd
+* https://codepen.io/uiswarup/pen/BaaexdO
+* https://codepen.io/Souleste/pen/JQRbMP
+* https://codepen.io/alphardex/pen/xxGoKEO
+* https://codepen.io/kdbkapsere/pen/oNXLbqQ
+* https://codepen.io/bernardoantunes/pen/inrbh

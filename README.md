@@ -21,3 +21,7 @@ Random reading notes
 * https://codepen.io/alphardex/pen/xxGoKEO
 * https://codepen.io/kdbkapsere/pen/oNXLbqQ
 * https://codepen.io/bernardoantunes/pen/inrbh
+
+# statistics 
+https://www.youtube.com/watch?v=tcusIOfI_GM 
+https://www.scipy2020.scipy.org/tutorial-information 

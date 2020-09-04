@@ -25,3 +25,4 @@ Random reading notes
 # statistics 
 https://www.youtube.com/watch?v=tcusIOfI_GM 
 https://www.scipy2020.scipy.org/tutorial-information 
+https://www.youtube.com/watch?v=7xrVo9uk1TU

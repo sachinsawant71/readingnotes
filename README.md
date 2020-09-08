@@ -9,6 +9,8 @@ Random reading notes
 * https://www.hacksplaining.com/
 * http://neuralnetworksanddeeplearning.com/
 
+* https://www.youtube.com/watch?v=qFJeN9V1ZsI - Deeplearning with KERAs
+
 # Knowledge Graph
 
 * https://medium.com/hackernoon/knowledge-graphs-for-enhanced-machine-reasoning-at-forge-ai-ef1ffa03af3d

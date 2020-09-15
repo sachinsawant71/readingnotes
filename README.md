@@ -28,3 +28,4 @@ Random reading notes
 https://www.youtube.com/watch?v=tcusIOfI_GM 
 https://www.scipy2020.scipy.org/tutorial-information 
 https://www.youtube.com/watch?v=7xrVo9uk1TU
+https://www.youtube.com/watch?v=zmdjNSmRXF4&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=2 - Pandas

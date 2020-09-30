@@ -8,6 +8,8 @@ Random reading notes
 * https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/
 * https://www.hacksplaining.com/
 * http://neuralnetworksanddeeplearning.com/
+* http://aosabook.org/en/index.html - open source architecture 
+* https://seeing-theory.brown.edu/index.html - Visual introduction to statistics and probability
 
 * https://www.youtube.com/watch?v=qFJeN9V1ZsI - Deeplearning with KERAs
 

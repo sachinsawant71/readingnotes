@@ -10,6 +10,7 @@ Random reading notes
 * http://neuralnetworksanddeeplearning.com/
 * http://aosabook.org/en/index.html - open source architecture 
 * https://seeing-theory.brown.edu/index.html - Visual introduction to statistics and probability
+* https://www.statisticshowto.com/ - probability how-to
 
 * https://www.youtube.com/watch?v=qFJeN9V1ZsI - Deeplearning with KERAs
 

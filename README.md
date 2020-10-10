@@ -13,6 +13,7 @@ Random reading notes
 * https://www.statisticshowto.com/ - probability how-to
 
 * https://www.youtube.com/watch?v=qFJeN9V1ZsI - Deeplearning with KERAs
+* https://www.youtube.com/watch?v=YZf5q-ICf8Y&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=2 - Data Analytics Course playbook
 
 # Knowledge Graph
 

@@ -40,3 +40,4 @@ Random reading notes
 * PCA - https://www.youtube.com/watch?v=g-Hb26agBFg
 * Deep learning course - https://atcold.github.io/pytorch-Deep-Learning/ 
 * https://cds.nyu.edu/deep-learning/
+* https://dphi.tech/ - data science bootcamp

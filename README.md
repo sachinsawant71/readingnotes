@@ -41,3 +41,8 @@ Random reading notes
 * Deep learning course - https://atcold.github.io/pytorch-Deep-Learning/ 
 * https://cds.nyu.edu/deep-learning/
 * https://dphi.tech/ - data science bootcamp
+
+
+# Time series
+* https://www.youtube.com/watch?v=k9jOeUKRGSs&list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO 
+* https://www.youtube.com/watch?v=FsroWpkUuYI&list=PLjwX9KFWtvNnOc4HtsvaDf1XYG3O5bv5s 

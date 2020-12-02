@@ -34,6 +34,7 @@ Random reading notes
 * https://www.youtube.com/watch?v=7xrVo9uk1TU
 * https://www.youtube.com/watch?v=zmdjNSmRXF4&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=2 - Pandas
 * https://www.youtube.com/watch?v=gfY2LfRfE1E machine learning
+* https://nptel.ac.in/courses/111/104/111104098/ - linear regression
 
 
 # Data science

@@ -49,3 +49,4 @@ Random reading notes
 * https://www.youtube.com/watch?v=FsroWpkUuYI&list=PLjwX9KFWtvNnOc4HtsvaDf1XYG3O5bv5s 
 * https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT - IITM Deep Learning 
 * https://www.youtube.com/watch?v=9Z5C-bOMafs&list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG - Computer Vision - IITH 
+* https://www.youtube.com/watch?v=7mXWbQjZRMA&list=PLpOGQvPCDQzvJEPFUQ3mJz72GJ95jyZTh - Deep Learning - Good information

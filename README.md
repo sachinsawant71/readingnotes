@@ -42,6 +42,7 @@ Random reading notes
 * Deep learning course - https://atcold.github.io/pytorch-Deep-Learning/ 
 * https://cds.nyu.edu/deep-learning/
 * https://dphi.tech/ - data science bootcamp
+* https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view - Probability book
 
 
 # Time series
@@ -52,4 +53,5 @@ Random reading notes
 * https://www.youtube.com/watch?v=7mXWbQjZRMA&list=PLpOGQvPCDQzvJEPFUQ3mJz72GJ95jyZTh - Deep Learning - Good information
 * https://www.youtube.com/watch?v=DG7YTlGnCEo - Singular Value Decomposition - Good explaination
 * https://www.youtube.com/watch?v=ZspR5PZemcs - recomendation engine 
+
 

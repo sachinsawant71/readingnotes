@@ -27,6 +27,7 @@ Random reading notes
 * https://codepen.io/alphardex/pen/xxGoKEO
 * https://codepen.io/kdbkapsere/pen/oNXLbqQ
 * https://codepen.io/bernardoantunes/pen/inrbh
+* https://www.youtube.com/watch?v=WV0UUcSPk-0&utm_source=epic_react - react
 
 # statistics 
 * https://www.youtube.com/watch?v=tcusIOfI_GM 

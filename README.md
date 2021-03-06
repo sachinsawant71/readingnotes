@@ -16,6 +16,7 @@ Random reading notes
 * https://www.youtube.com/watch?v=qFJeN9V1ZsI - Deeplearning with KERAs
 * https://www.youtube.com/watch?v=YZf5q-ICf8Y&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=2 - Data Analytics Course playbook
 * https://courses.kevinpowell.co/courses/conquering-responsive-layouts 
+* https://www.svgrepo.com/ - SVG Icons
 
 # Knowledge Graph
 

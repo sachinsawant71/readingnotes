@@ -17,6 +17,11 @@ Random reading notes
 * https://www.youtube.com/watch?v=YZf5q-ICf8Y&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&index=2 - Data Analytics Course playbook
 * https://courses.kevinpowell.co/courses/conquering-responsive-layouts 
 * https://www.svgrepo.com/ - SVG Icons
+* https://www.youtube.com/watch?v=9MCjyQSRmR8&list=PLFW6lRTa1g80fZ1giRbqbe_XdXPdkkyqY - linear algebra
+* https://www.youtube.com/watch?v=9ce1FbFO_YQ&list=PLFW6lRTa1g80R3Q_5-jsNVhDFAeGaABo9 - Introduction to Blockchain Technology and Applications
+* https://www.youtube.com/watch?v=A3FPxuKlnkU&list=PLFW6lRTa1g82dte3YD_7-GoZXcBiK6K9G - Distributed systems
+* 
+
 
 # Knowledge Graph
 

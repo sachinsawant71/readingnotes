@@ -20,7 +20,7 @@ Random reading notes
 * https://www.youtube.com/watch?v=9MCjyQSRmR8&list=PLFW6lRTa1g80fZ1giRbqbe_XdXPdkkyqY - linear algebra
 * https://www.youtube.com/watch?v=9ce1FbFO_YQ&list=PLFW6lRTa1g80R3Q_5-jsNVhDFAeGaABo9 - Introduction to Blockchain Technology and Applications
 * https://www.youtube.com/watch?v=A3FPxuKlnkU&list=PLFW6lRTa1g82dte3YD_7-GoZXcBiK6K9G - Distributed systems
-* 
+* https://intuitive-math.club/linear-algebra/spaces - Linear algebra
 
 
 # Knowledge Graph

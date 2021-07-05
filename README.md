@@ -65,5 +65,6 @@ Random reading notes
 * https://www.youtube.com/watch?v=ZspR5PZemcs - recomendation engine 
 * https://www.youtube.com/watch?v=_M-nDb0MIa4&list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K - machine .earning
 * https://www.youtube.com/watch?v=Ymn8rzTaEfk&list=PLyqSpQzTE6M912cneV79Cqsj88E3VBfxt linear algbra
+* https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT - Deep Learning
 * https://www.youtube.com/watch?v=oJlb4jBbKWw&list=PLyqSpQzTE6M-_1jAqrFCsgCcuTYm_2urp&index=1 = deep learning part 2
 

@@ -63,5 +63,6 @@ Random reading notes
 * https://www.youtube.com/watch?v=7mXWbQjZRMA&list=PLpOGQvPCDQzvJEPFUQ3mJz72GJ95jyZTh - Deep Learning - Good information
 * https://www.youtube.com/watch?v=DG7YTlGnCEo - Singular Value Decomposition - Good explaination
 * https://www.youtube.com/watch?v=ZspR5PZemcs - recomendation engine 
-
+* https://www.youtube.com/watch?v=_M-nDb0MIa4&list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K - machine .earning
+* https://www.youtube.com/watch?v=Ymn8rzTaEfk&list=PLyqSpQzTE6M912cneV79Cqsj88E3VBfxt linear algbra
 

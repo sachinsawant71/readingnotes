@@ -2,6 +2,7 @@
 Random reading notes
 
 
+* https://d2l.ai/index.html
 * https://textslashplain.com/2020/02/09/demystifying-browsers/
 * https://akshay.rocks/resources 
 * https://datastack.tv/ - Docker/Kubernetes course

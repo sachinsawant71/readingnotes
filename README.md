@@ -3,6 +3,7 @@ Random reading notes
 
 
 * https://d2l.ai/index.html
+* https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6 - Linear algebra
 * https://textslashplain.com/2020/02/09/demystifying-browsers/
 * https://akshay.rocks/resources 
 * https://datastack.tv/ - Docker/Kubernetes course

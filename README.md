@@ -70,3 +70,14 @@ Random reading notes
 * https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT - Deep Learning
 * https://www.youtube.com/watch?v=oJlb4jBbKWw&list=PLyqSpQzTE6M-_1jAqrFCsgCcuTYm_2urp&index=1 = deep learning part 2
 
+
+https://www.youtube.com/watch?v=TT7-o366PKs - How Deep Learning Works
+https://www.youtube.com/watch?v=C9qmjIwUywY - Gradients in Machine Learning
+https://www.youtube.com/watch?v=1i4VwjvtBTk - Convolutional Neural Networks for Machine Vision 
+https://www.youtube.com/watch?v=dAQjK63GMc0&t=1844s - Regression with Machine Learning
+https://www.youtube.com/watch?v=UNVHUbLAYhk&t=4s - Eigenvectors and Eigenvalues
+
+
+
+
+

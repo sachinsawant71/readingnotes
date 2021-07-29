@@ -3,6 +3,7 @@ Random reading notes
 
 
 * https://d2l.ai/index.html
+* https://christophm.github.io/interpretable-ml-book/index.html - Interpretable Machine Learning book
 * https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6 - Linear algebra
 * https://textslashplain.com/2020/02/09/demystifying-browsers/
 * https://akshay.rocks/resources 

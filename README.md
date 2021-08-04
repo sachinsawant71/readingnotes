@@ -2,6 +2,7 @@
 Random reading notes
 
 
+* https://shainarace.github.io/LinearAlgebra/index.html - Linear Algebra for data science
 * https://d2l.ai/index.html
 * https://calculusmadeeasy.org/ - Calculus Made easy
 * https://christophm.github.io/interpretable-ml-book/index.html - Interpretable Machine Learning book

@@ -82,6 +82,6 @@ https://www.youtube.com/watch?v=dAQjK63GMc0&t=1844s - Regression with Machine Le
 https://www.youtube.com/watch?v=UNVHUbLAYhk&t=4s - Eigenvectors and Eigenvalues
 
 
-
+https://apislist.com/ - The Public APIs List, a curated list for the public web Apis
 
 

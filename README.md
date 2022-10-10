@@ -2,6 +2,7 @@
 Random reading notes
 
 * https://speckyboy.com/ - web designer news
+* https://guidesmiths.github.io/cybersecurity-handbook/ 
 * https://www.practical-mongodb-aggregations.com/front-cover.html 
 * https://shainarace.github.io/LinearAlgebra/index.html - Linear Algebra for data science
 * https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/ - Bayes theorem

@@ -2,6 +2,7 @@
 Random reading notes
 
 * https://speckyboy.com/ - web designer news
+* https://blog.stackfindover.com/ - tailwind
 * https://guidesmiths.github.io/cybersecurity-handbook/ 
 * https://www.practical-mongodb-aggregations.com/front-cover.html 
 * https://shainarace.github.io/LinearAlgebra/index.html - Linear Algebra for data science

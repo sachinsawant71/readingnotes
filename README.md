@@ -87,4 +87,6 @@ https://www.youtube.com/watch?v=UNVHUbLAYhk&t=4s - Eigenvectors and Eigenvalues
 
 https://apislist.com/ - The Public APIs List, a curated list for the public web Apis
 
+https://www.youtube.com/watch?v=N0o-Bjiwt0M - deepnote
+
 

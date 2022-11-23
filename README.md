@@ -89,4 +89,9 @@ https://apislist.com/ - The Public APIs List, a curated list for the public web 
 
 https://www.youtube.com/watch?v=N0o-Bjiwt0M - deepnote
 
+NLP
+https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
+https://github.com/nlp-with-transformers/notebooks
+
+
 

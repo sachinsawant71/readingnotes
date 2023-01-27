@@ -92,6 +92,7 @@ https://www.youtube.com/watch?v=N0o-Bjiwt0M - deepnote
 NLP
 https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
 https://github.com/nlp-with-transformers/notebooks
+https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS - playbook
 
 
 

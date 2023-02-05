@@ -95,5 +95,5 @@ https://github.com/nlp-with-transformers/notebooks
 https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS - playbook
 https://sites.google.com/umd.edu/2021cl1webpage/?pli=1 - NLP Book
 https://ds3.ai/index.html#intro - data science course
-
+https://www.youtube.com/playlist?list=PLKvX2d3IUq5_fqKyp0lbzyprji7Oqgmh8 - Transformer introduction - IIT mandi
 

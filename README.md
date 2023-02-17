@@ -90,11 +90,12 @@ https://apislist.com/ - The Public APIs List, a curated list for the public web 
 https://www.youtube.com/watch?v=N0o-Bjiwt0M - deepnote
 
 NLP
-https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
-https://github.com/nlp-with-transformers/notebooks
-https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS - playbook
-https://sites.google.com/umd.edu/2021cl1webpage/?pli=1 - NLP Book
-https://ds3.ai/index.html#intro - data science course
-https://www.youtube.com/playlist?list=PLKvX2d3IUq5_fqKyp0lbzyprji7Oqgmh8 - Transformer introduction - IIT mandi
-https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS - Natural Language Processing Demystified
+* https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
+* https://github.com/nlp-with-transformers/notebooks
+* https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS - playbook
+* https://sites.google.com/umd.edu/2021cl1webpage/?pli=1 - NLP Book
+* https://ds3.ai/index.html#intro - data science course
+* https://www.youtube.com/playlist?list=PLKvX2d3IUq5_fqKyp0lbzyprji7Oqgmh8 - Transformer introduction - IIT mandi
+* https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS - Natural Language Processing Demystified
+* https://huggingface.co/course/chapter1/3?fw=pt 
 

@@ -98,4 +98,5 @@ NLP
 * https://www.youtube.com/playlist?list=PLKvX2d3IUq5_fqKyp0lbzyprji7Oqgmh8 - Transformer introduction - IIT mandi
 * https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS - Natural Language Processing Demystified
 * https://huggingface.co/course/chapter1/3?fw=pt 
+* https://www.youtube.com/watch?v=OWx49w-Zdhs&t=5s - Create ChatBot Based On The Data Feed By You - GPT-Index 
 

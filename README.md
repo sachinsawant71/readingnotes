@@ -100,3 +100,5 @@ NLP
 * https://huggingface.co/course/chapter1/3?fw=pt 
 * https://www.youtube.com/watch?v=OWx49w-Zdhs&t=5s - Create ChatBot Based On The Data Feed By You - GPT-Index 
 
+Open course
+* http://www.infocobuild.com/education/audio-video-courses/computer-science/BlockchainArchitectureDesign-IIT-Kharagpur/lecture-19.html
